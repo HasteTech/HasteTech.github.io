@@ -27,8 +27,8 @@ a, button {
 }
 
 a {
-	color: #566473;
-	text-decoration: none;
+	color: #FFF;
+	text-decoration: underline;
 }
 
 a:hover, a:focus {
@@ -41,8 +41,13 @@ section {
 }
 
 p.ref {
-	text-align: center;
-	padding: 2em 1em;
+	text-align: right;
+	padding: 0em 0em;
+    position: absolute;
+    right: 10px;
+    margin-top: -33px;
+    z-index: 100;
+    color: #FFF;
 }
 
 /* Header */
