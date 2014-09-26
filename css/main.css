@@ -19,9 +19,121 @@
     font-family: 'Raleway', Calibri, Arial, sans-serif;
 }
 .main-sec{
-    background-color: #f3f5f8;
+    min-height: 280px;
+    box-sizing: border-box;
     text-align: center;
-}   
+    display: block;
+}
+.main-sec .sec-container{
+    width: 960px;
+    min-height: 280px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 50%;
+    margin-left: -480px;
+}
+.main-sec .sec-left{
+    width: 50%;
+    box-sizing: border-box;
+    min-height: 280px;
+    display: inline-box;
+    float: left;
+    text-align: right;
+}
+.main-sec .sec-right{
+    width: 50%;
+    box-sizing: border-box;
+    min-height: 280px;
+    display: inline-box;
+    float: right;
+    text-align: left;
+}
+.sec-1{
+    background: -webkit-linear-gradient(90deg, #7474BF 10%, #348AC7 90%); /* Chrome 10+, Saf5.1+ */
+    background:    -moz-linear-gradient(90deg, #7474BF 10%, #348AC7 90%); /* FF3.6+ */
+    background:     -ms-linear-gradient(90deg, #7474BF 10%, #348AC7 90%); /* IE10 */
+    background:      -o-linear-gradient(90deg, #7474BF 10%, #348AC7 90%); /* Opera 11.10+ */
+    background:         linear-gradient(90deg, #7474BF 10%, #348AC7 90%); /* W3C */
+    color: #FFF;
+    padding-top: 80px;
+    font-size: 20px;
+}
+.sec-2{
+    background-color: #c1bdbe;
+    height: 480px;
+}
+.sec-2 .sec-left{
+    background-image: url(../img/creep.jpg);
+    background-position: right top;
+    background-repeat: no-repeat;
+    height: 480px;
+}
+.sec-2 .sec-right{
+    height: 480px;
+    box-sizing: border-box;
+    padding-top: 80px;
+    padding-left: 65px;
+}
+.sec-2 .sec-right h3,
+.sec-2 .sec-right p,
+.sec-2 .sec-right ul,
+.sec-2 .sec-right li{
+    margin: 0;
+    padding: 0;
+    font-weight: 800;
+    font-family: 'Raleway', Calibri, Arial, sans-serif;
+    color:  #353535;
+}
+.sec-2 .sec-right h3{
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.sec-2 .sec-right p{
+    margin-top: 8px;
+    font-size: 18px;
+}
+.sec-2 .sec-right ul{
+    padding-left: 30px;
+}
+.sec-2 .sec-right li{
+    margin-top: 5px;
+}
+.sec-2 .sec-right a{
+    color: #009bdb;
+    text-decoration: none;
+}
+.sec-2 .sec-right a:hover{
+    color: #FFF;
+}
+.sec-3{
+    box-sizing: border-box;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
+.sec-3 .sec-container{
+    background-image: url(/img/features-api.png);
+    background-repeat: no-repeat;
+    background-position: 40px 10px;
+    padding-right: 30px;
+}
+.sec-4{
+    background: url('/img/fixbackground.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-over{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(233,233,233,0.7);
+}
+.marg-top{
+    margin-top: -24px;
+}
 .main-sec .float-left{
     display: inline-block;
     width: 480px;

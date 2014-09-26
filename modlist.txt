@@ -1,0 +1,113 @@
+# --- ModList ---
+# Generated: 26-8-2014 (Server time)
+# Change the location of this file in ./ForgeEssentials/main.cfg
+
+Minecraft Coder Pack;8.09;http://mcp.ocean-labs.de/
+Forge Mod Loader;6.4.49.965;https://github.com/MinecraftForge/FML/wiki
+Minecraft Forge;9.11.1.965;http://MinecraftForge.net/forum/index.php/topic,5.0.html
+CodeChicken Core;0.9.0.9;http://www.minecraftforum.net/topic/909223-
+Evoc;1.0.0;profmobius.blogspot.com
+Infinity Bow Fix;1.2.0 build 14;http://smarturl.it/InfiniBows
+MobiusCore;1.2.1;profmobius.blogspot.com
+Not Enough Items;1.6.1.9;http://www.minecraftforum.net/topic/909223-
+OpenModsCore;0.4;http://openmods.info/
+PowerCrystals Core;1.1.8;http://minecraft.curseforge.com/mc-mods/powercrystalscore/
+Tinkers Corestruct;0.0.1;
+AppliedEnergistics Core;rv14.finale3;
+Forge Essentials|PreLoader;1.3.0.3;
+InputFix;1.6.x-v3;https://github.com/zlainsama/LainCraft/releases
+Switches|PistonTweak;1.3.0 build 25;
+Agriculture;1.0.0;http://goo.gl/tW92J
+Applied Energistics;rv14.finale3;http://ae-mod.info/Downloads/
+BiblioCraft;1.5.5;http://www.bibliocraftmod.com
+Natura;2.1.14;www.minecraftforum.net/topic/1753754-natura/
+Biomes O' Plenty;1.2.1;www.minecraftforum.net/topic/1495041-
+MineFactory Reloaded;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Forestry (part 2);1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+Forestry for Minecraft;2.3.1.1;http://forestry.sengir.net/wiki/index.php?n=Main.Downloads
+Binnie Core;1.8.0;
+Extra Bees;1.8.0;
+Extra Trees;1.8.0;
+Blood Magic: Alchemical Wizardry;v1.0.1c;http://www.minecraftforum.net/topic/1899223-
+ChickenChunks;1.3.3.4;http://www.minecraftforum.net/topic/909223
+CoFH Core;2.0.0.5;http://www.teamcofh.com
+CoFH Loot;2.0.0.5;http://www.teamcofh.com
+CoFH Masquerade;2.0.0.5;http://www.teamcofh.com
+CoFH Social;2.0.0.5;http://www.teamcofh.com
+CoFH World;2.0.0.5;http://www.teamcofh.com
+Deadly World;1.0.1;
+Enchiridion;1.1;
+Waila;1.5.2a;
+ExtraCells;1.6.9b;http://m3gafr3ak.github.io/ExtraCells/
+Extra Utilities;1.0.3c;
+Fancy Fences (Vanilla with Sprinkles);4.0.0;
+Finndus Fillies;1.0.0;http://smarturl.it/FinndusFillies
+Flat Signs;1.4.0;http://smarturl.it/FlatSigns
+Forge Essentials;1.3.0.3;https://github.com/ForgeEssentials/ForgeEssentialsMain
+GraveStone;2.4.7;
+Growthcraft;2.0.5;http://www.minecraftforum.net/topic/1510394-/
+Growthcraft Cellar;2.0.6;http://www.minecraftforum.net/topic/1510394-/
+Growthcraft Apples;2.0.5;http://www.minecraftforum.net/topic/1510394-/
+Growthcraft Bamboo;2.0.5;http://www.minecraftforum.net/topic/1510394-/
+Growthcraft Grapes;2.0.5;http://www.minecraftforum.net/topic/1510394-/
+Growthcraft Hops;2.0.5;http://www.minecraftforum.net/topic/1510394-/
+Growthcraft Rice;2.0.5;http://www.minecraftforum.net/topic/1510394-/
+Pam's HarvestCraft Base;1.0;
+Forge Multipart;1.0.0.227;https://github.com/Chicken-Bones/ForgeMultipart
+Thermal Expansion;3.0.0.7;http://www.teamcofh.com
+Tinkers' Construct;1.6.X_1.5.5.7;http://www.minecraftforum.net/topic/1659892-tinkers-construct
+Thaumcraft;4.1.0g;http://www.minecraftforum.net/topic/838839-100-thaumcraft/
+Hunger Overhaul;1.6.X-2l;http://www.minecraftforum.net/topic/1813158-
+HarvestCraft Waila Fixes;1.0.2;
+Infernal Mobs;1.4.3;http://www.minecraftforum.net/topic/991952-
+Inventory Tweaks;1.56;https://github.com/Kobata/inventory-tweaks
+Iron Chest;5.4.1.702;http://www.minecraftforum.net/topic/981855-
+JABBA;1.1.3;
+Thaumic Tinkerer;2.3-140;minecraftforum.net/topic/1813058-
+Magic Bees;2.1.11;http://bit.ly/XFDvLY
+Mariculture;1.2.1e;http://mariculture.wikispaces.com/
+MFR Compat Forestry Trees;1.0;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat Extra Trees;1.0;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Applied Energistics;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Atum;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: BackTools;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: BuildCraft;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Chococraft;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: ExtraBiomes;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Forestry;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: ForgeMicroblock;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: IC2;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Mystcraft;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Pam's Mods;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat ProjectRed;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Railcraft;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: RP2;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Sufficient Biomes;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Thaumcraft;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Thermal Expansion;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: TwilightForest;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: Vanilla;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+MFR Compat: XyCraft;1.6.4R2.7.9;http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+Morpheus;1.2;
+NEI Addons;1.10.4.64;bdew.net/neiaddons
+NEI Addons: Applied Energistics;1.10.4.64;bdew.net/mods/neiaddons
+NEI Addons: Misc Peripherals;1.10.4.64;bdew.net/mods/neiaddons
+NEI Addons: Extra Bees;1.10.4.64;bdew.net/mods/neiaddons
+NEI Addons: Forestry;1.10.4.64;bdew.net/mods/neiaddons
+NEI Addons: Crafting Tables;1.10.4.64;bdew.net/mods/neiaddons
+NEI Plugins;1.1.0.6;https://bitbucket.org/mistaqur/nei_plugins/wiki
+Not Enough Keys;0.0.4;
+Obsidian Pressure Plates;2.0.0;http://smarturl.it/ObsidiPlates
+OpenMods;0.4;http://openmods.info/
+OpenBlocks;1.2.7;http://www.openperipheral.info
+Redstone Arsenal;1.0.0.0;
+Simply Jetpacks;0.1.4.1;
+Special Mobs;2.6;
+Switches;1.3.0;http://smarturl.it/Switches
+TiC Tooltips;1.1.5;http://www.minecraftforum.net/topic/2509840-
+Tinkers' Mechworks;33.c001660;
+Waila Harvestability;1.0.1;
+MineTweaker;1.6.4-2.1.2;
+Minecraft Multipart Plugin;1.0.0.227;https://github.com/Chicken-Bones/ForgeMultipart
+Iguana Tweaks for Tinkers Construct;1.6.X-1p;http://www.minecraftforum.net/topic/1953828-
+Forge Microblocks;1.0.0.227;https://github.com/Chicken-Bones/ForgeMultipart
