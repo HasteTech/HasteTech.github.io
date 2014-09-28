@@ -314,6 +314,9 @@ p.ref {
 .main-title .thin {
 	font-weight: 200;
 }
+.container a:hover{
+    color: #009bdb;
+}
 
 @media only screen and (max-width : 768px) {
 	.demo-1 .main-title, 
@@ -326,3 +329,4 @@ p.ref {
 		font-size: 4em;
 	}
 }
+
